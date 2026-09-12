@@ -51,5 +51,5 @@ Turn any GitHub profile into an RPG or Cyberpunk stat card with real-time stats 
 ---
 
 <div align="center">
-  <sub>Built by <a href="https://github.com/AliAkbar852">Ali Akbar</a> · Powered by <a href="https://devcard.tech">DevCard</a></sub>
+  <sub>Built by <a href="https://github.com/AliAkbar852">Ali Akbar</a> &middot; Powered by <a href="https://devcard.tech">DevCard</a></sub>
 </div>
